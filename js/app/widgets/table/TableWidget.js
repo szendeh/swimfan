@@ -31,7 +31,7 @@ function(
         },
 
         initialize: function() {
-            this.favorites = JSON.parse(window.localStorage.favorites) || {};
+            this.favorites = window.localStorage.favorites ? JSON.parse(window.localStorage.favorites) : {};
         },
 
         postRender: function() {

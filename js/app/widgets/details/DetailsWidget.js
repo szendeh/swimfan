@@ -24,7 +24,7 @@ function(
         },
 
         initialize: function() {
-            this.favorites = JSON.parse(window.localStorage.favorites) || {};
+            this.favorites = window.localStorage.favorites ? JSON.parse(window.localStorage.favorites) : {};
 
             this.model.attributes.favorite = this.favorites[this.model.id] || false;
         },
