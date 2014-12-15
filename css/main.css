@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+}
+.section.top {
+    potition: absolute;
+    margin: 0 auto;
+}
+.section.js-filters {
+  position: absolute;
+  left: 0px;
+  width: 150px;
+}
+.section.js-table {
+  /* position is static by default */
+  margin-left: 150px;
+}

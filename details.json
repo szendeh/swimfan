@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Walden Pond",
+        "address": "1234 Rt 2, Concord, MA",
+        "type": "outdoor",
+        "activity": "swimming",
+        "distance": 20,
+        "hours": "8am-8pm",
+        "parking": "$7/day"
+    },
+    {
+        "id": 2,
+        "name": "Whites Pond",
+        "address": "2345 Rt 2, Concord, MA",
+        "type": "outdoor",
+        "activity": "swimming",
+        "distance": 25,
+        "hours": "8am-6pm",
+        "parking": "free, on-street"
+    },
+    {
+        "id": 3,
+        "name": "YMCA",
+        "address": "1234 Mass Ave, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 3,
+        "hours": "6am-8pm",
+        "parking": "metered, on-street"
+    },
+    {
+        "id": 4,
+        "name": "YMCA",
+        "address": "23 Broadway, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 4,
+        "hours": "8am-6pm",
+        "parking": "metered, on-street"
+    },
+    {
+        "id": 5,
+        "name": "MIT Z-center",
+        "address": "1 Mass Ave, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 5,
+        "hours": "6am-11pm",
+        "parking": "metered, on-street"
+    },
+    {
+        "id": 6,
+        "name": "Harvard Stadium",
+        "address": "23 JFK St, Alston, MA",
+        "type": "outdoor",
+        "activity": "running",
+        "distance": 5,
+        "hours": "8am-6pm",
+        "parking": "metered, on-street"
+    },
+    {
+        "id": 7,
+        "name": "Mt Chocorua",
+        "address": "123 Mountain road, Somewhere, NH",
+        "type": "outdoor",
+        "activity": "hiking",
+        "distance": 155,
+        "hours": "8am-8pm",
+        "parking": "$3/day"
+    }
+]

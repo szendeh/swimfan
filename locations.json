@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Walden Pond",
+        "address": "1234 Rt 2, Concord, MA",
+        "type": "outdoor",
+        "activity": "swimming",
+        "distance": 20
+    },
+    {
+        "id": 2,
+        "name": "Whites Pond",
+        "address": "2345 Rt 2, Concord, MA",
+        "type": "outdoor",
+        "activity": "swimming",
+        "distance": 25
+    },
+    {
+        "id": 3,
+        "name": "YMCA",
+        "address": "1234 Mass Ave, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 3
+    },
+    {
+        "id": 4,
+        "name": "YMCA",
+        "address": "23 Broadway, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 4
+    },
+    {
+        "id": 5,
+        "name": "MIT Z-center",
+        "address": "1 Mass Ave, Cambridge, MA",
+        "type": "indoor",
+        "activity": "swimming",
+        "distance": 5
+    },
+    {
+        "id": 6,
+        "name": "Harvard Stadium",
+        "address": "23 JFK St, Alston, MA",
+        "type": "outdoor",
+        "activity": "running",
+        "distance": 5
+    },
+    {
+        "id": 7,
+        "name": "Mt Chocorua",
+        "address": "123 Mountain road, Somewhere, NH",
+        "type": "outdoor",
+        "activity": "hiking",
+        "distance": 155
+    }
+]

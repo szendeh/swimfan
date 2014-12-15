@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "location_id": 2,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "65 deg",
+        "user": "mr awesome"
+    },
+    {
+        "id": 2,
+        "location_id": 1,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "66 deg",
+        "user": "mr awesome"
+    },
+    {
+        "id": 3,
+        "location_id": 2,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "67 deg",
+        "user": "mr awesome 2"
+    },
+    {
+        "id": 4,
+        "location_id": 3,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "66 deg",
+        "user": "mr awesome"
+    },
+    {
+        "id": 5,
+        "location_id": 5,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "67 deg",
+        "user": "mr awesome 2"
+    },
+    {
+        "id": 6,
+        "location_id": 6,
+        "ts": "2014-11-20",
+        "condition": "water temp",
+        "value": "76 deg",
+        "user": "mr awesome"
+    },
+    {
+        "id": 7,
+        "location_id": 7,
+        "ts": "2014-11-20",
+        "condition": "trail condition",
+        "value": "Leg A washed out",
+        "user": "mr awesome 2"
+    }
+]
