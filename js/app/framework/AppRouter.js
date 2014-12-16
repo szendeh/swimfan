@@ -20,7 +20,6 @@ function(Router) {
 
         goToDetailsPage: function(id) {
             this.goToPage('details');
-            console.log(id);
         }
     });
 

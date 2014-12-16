@@ -4,19 +4,19 @@ define([
     'use strict';
 
     var Alerts = Backbone.Collection.extend({
-        url: '/alerts.json'
+        url: 'alerts.json'
     });
 
     var Conditions = Backbone.Collection.extend({
-        url: '/conditions.json'
+        url: 'conditions.json'
     });
 
     var Details = Backbone.Collection.extend({
-        url: '/details.json'
+        url: 'details.json'
     });
 
     var Locations = Backbone.Collection.extend({
-        url: '/locations.json'
+        url: 'locations.json'
     });
     
     var alerts = new Alerts();
